@@ -4,7 +4,7 @@ current_time = current_time.to.i
 
 
 if current_time % 2 == 0
-  puts ("Even!")
+  puts "Even!"
 else
-  puts ("Odd!")
+  puts "Odd!"
 end
